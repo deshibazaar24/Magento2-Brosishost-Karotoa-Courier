@@ -13,7 +13,7 @@ The Karotoa Courier Magento2 Extension gives your customers possibility to choos
 <b>Installation Step:</b>
 
 1. Upload "Brosihost.zip" folder inside app/code
-2. php bin/magento module:enable Brosishost_KarotoaCourier
+2. run following command  php bin/magento module:enable Brosishost_KarotoaCourier
 3. run following command 'php bin/magento setup:upgrade'
 4. run following command 'php bin/magento setup:di:compile'
 5. run following command 'php bin/magento indexer:reindex'
